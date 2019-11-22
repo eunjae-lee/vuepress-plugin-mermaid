@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-plugin-mermaid",
+  "version": "0.0.1",
+  "description": "*NOT MAINTAINED*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunjae-lee/vuepress-plugin-mermaid.git"
+  },
+  "author": "Eunjae Lee <karis612@gmail.com> (https://github.com/eunjae-lee)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eunjae-lee/vuepress-plugin-mermaid/issues"
+  },
+  "homepage": "https://github.com/eunjae-lee/vuepress-plugin-mermaid#readme"
+}
